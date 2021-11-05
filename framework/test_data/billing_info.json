@@ -1,0 +1,13 @@
+{
+  "email": "igorgrnv@gmail.com",
+  "full_name": "Igor Grankov",
+  "address": "Some str. 52, apt. 5",
+  "city": "Birmingham",
+  "state": "AL",
+  "zip": "35242",
+  "country": "US",
+  "phone_number": "+380936062847",
+  "cc_num": "4242 4242 4242 4242",
+  "cc_expiration": "02/29",
+  "cc_cvc": "737"
+}
